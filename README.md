@@ -4,7 +4,6 @@ In this project, I have implemented a simple web application using SpringMVC
 
 
 Here I have a start page for filling in the fields.
-In this project, I have implemented a simple web application using.
 
 ![alt text](https://github.com/firsovroman/just_springMVC/raw/main/pictures/2.png)
 
