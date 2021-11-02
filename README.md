@@ -20,6 +20,5 @@ Below is the correct filling and the final page.
 ![alt text](https://github.com/firsovroman/just_springMVC/raw/main/pictures/4.png)
 
 
-And finally
 
-![alt text](https://github.com/firsovroman/just_springMVC/raw/main/pictures/5.png)
+![alt text](https://github.com/firsovroman/just_springMVC/raw/main/pictures/5.jpg)
